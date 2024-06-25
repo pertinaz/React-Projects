@@ -1,0 +1,15 @@
+.box-container{
+    height: 368px;
+    width: 1170px;
+    margin: 10px 10px 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0  / 9%);
+}
+
+.image{
+    height: 100%;
+    width: auto;
+}
